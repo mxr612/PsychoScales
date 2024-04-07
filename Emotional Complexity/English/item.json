@@ -1,0 +1,506 @@
+[
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I don’t experience many different feelings in everyday life.",
+        "inline": false,
+        "name": "idec1",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I am aware of the different nuances or subtleties of a given emotion.",
+        "inline": false,
+        "name": "idec2",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I have experienced a wide range of emotions throughout my life.",
+        "inline": false,
+        "name": "idec3",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "Each emotion has a very distinct and unique meaning to me.",
+        "inline": false,
+        "name": "idec4",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I usually experience a limited range of emotions.",
+        "inline": false,
+        "name": "idec5",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I tend to draw fine distinctions between similar feelings (e.g., depressed         and blue; annoyed and irritated).",
+        "inline": false,
+        "name": "idec6",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I experience a wide range of emotions.",
+        "inline": false,
+        "name": "idec7",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I am aware that each emotion has a completely different meaning.",
+        "inline": false,
+        "name": "idec8",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I don’t experience a variety of feelings on an everyday basis.",
+        "inline": false,
+        "name": "idec9",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "If emotions are viewed as colors, I can notice even small variations within one kind of color (emotion).",
+        "inline": false,
+        "name": "idec10",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "Feeling good or bad — those terms are sufficient to describe most of my feelings in everyday life.",
+        "inline": false,
+        "name": "idec11",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": " I am aware of the subtle differences between feelings I have.",
+        "inline": false,
+        "name": "idec12",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I tend to experience a broad range of different feelings.",
+        "inline": false,
+        "name": "idec13",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "I am good at distinguishing subtle differences in the meaning of closely related emotion words.",
+        "inline": false,
+        "name": "idec14",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "It does not describe me very well.",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "It describes me very well.",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    }
+]

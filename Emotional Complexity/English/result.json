@@ -1,0 +1,35 @@
+    [
+        {
+            "name": "range",
+            "sum": [
+                "idec7",
+                "idec13",
+                "idec3"
+            ],
+            "re_sum": [
+                "idec5",
+                "idec1",
+                "idec9",
+                "idec11"
+            ],
+            "result": {
+                "0": "8"
+            }
+        },
+        {
+            "name": "differentiation",
+            "sum": [
+                "idec12",
+                "idec14",
+                "idec8",
+                "idec10",
+                "idec4",
+                "idec2",
+                "idec6"
+            ],
+            "re_sum": [],
+            "result": {
+                "0": "9"
+            }
+        }
+    ]
