@@ -110,7 +110,7 @@
     {
         "type": "radio-group",
         "required": true,
-        "label": "对我来说，每种情绪的含义都相去甚远。",
+        "label": "对我来说，每种情绪的含义都独一无二。",
         "inline": false,
         "name": "idec4",
         "access": false,
