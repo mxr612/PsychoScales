@@ -1,0 +1,506 @@
+[
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我在日常生活中少有不同的感受。",
+        "inline": false,
+        "name": "idec1",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我能解读某种情绪的微妙含义。",
+        "inline": false,
+        "name": "idec2",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我一生走过各种各样的情感。",
+        "inline": false,
+        "name": "idec3",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "对我来说，每种情绪的含义都相去甚远。",
+        "inline": false,
+        "name": "idec4",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我的情绪变化不大。",
+        "inline": false,
+        "name": "idec5",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我喜欢界定两种相似的情绪（如沮丧和忧伤，烦恼和被激怒）。",
+        "inline": false,
+        "name": "idec6",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我能体会各种不同的情绪。",
+        "inline": false,
+        "name": "idec7",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我认为每种情绪都有其独特意义。",
+        "inline": false,
+        "name": "idec8",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我每天都不会经历各种各样的感受。",
+        "inline": false,
+        "name": "idec9",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "若一种颜色代表一种情绪，再小的颜色（情绪）变化我都能察觉到。",
+        "inline": false,
+        "name": "idec10",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "“好”或者“不好”已经足以描述我大部分的生活感受。",
+        "inline": false,
+        "name": "idec11",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我意识到我的感受之间存在微妙的差异。",
+        "inline": false,
+        "name": "idec12",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我倾向于体验各种不同的感受。",
+        "inline": false,
+        "name": "idec13",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    },
+    {
+        "type": "radio-group",
+        "required": true,
+        "label": "我善于区分意思相近的两个情绪语词之间的区别。",
+        "inline": false,
+        "name": "idec14",
+        "access": false,
+        "other": false,
+        "values": [
+            {
+                "label": "这对我描述不准确。",
+                "value": "1",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "2",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "3",
+                "selected": false
+            },
+            {
+                "label": "",
+                "value": "4",
+                "selected": false
+            },
+            {
+                "label": "这对我描述准确。",
+                "value": "5",
+                "selected": false
+            }
+        ]
+    }
+]
